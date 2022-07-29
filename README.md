@@ -1,6 +1,7 @@
 
 
 ## Olá! eu me chamo Davi Samuel e aqui abaixo estão algumas coisas sobre mim: 
+## Meu portfólio: davisamasoa.github.io/portfolio;
 <div align="center">
   <a href="https://github.com/Davisamasoa">
   <img height="165em" width="410em" src="https://github-readme-stats.vercel.app/api?username=Davisamasoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
