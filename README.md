@@ -1,7 +1,7 @@
 
 
 ## Olá! eu me chamo Davi Samuel e aqui abaixo estão algumas coisas sobre mim: 
-Meu portfólio: https://davisamasoa.github.io/Portfolio/;
+Meu portfólio: https://davisamasoa.github.io/Portfolio/; <br>
 Linkedin: https://www.linkedin.com/in/davisamasoa/;
 <div align="center">
   <a href="https://github.com/Davisamasoa">
