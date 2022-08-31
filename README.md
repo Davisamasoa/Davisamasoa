@@ -3,7 +3,7 @@
 ## Hi there! My name is Davi Samuel and bellow have some things about me, enjoy it!
 
 Nacionality: Brazil; <br>
-Studying: Js & ReactJs ; <br>
+Studying: Js & ReactJs; <br>
 Skills: HTML, CSS and Js; <br>
 Objective: Be a softweer engineer; <br>
 Portfólio: https://davisamasoa.github.io/Portfolio/; <br>
