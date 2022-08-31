@@ -1,6 +1,13 @@
 
 
-## Olá! eu me chamo Davi Samuel e aqui abaixo estão algumas coisas sobre mim: 
+## Hi there! My name is Davi Samuel and bellow have some things about me, enjoy it!
+
+Nacionality: Brazil; <br>
+Studying: Js & ReactJs ; <br>
+Skills: HTML, CSS and Js; <br>
+Objective: Be a softweer engineer; <br>
+Portfólio: ; <br>
+Linkedin ;
 
 <div align="center">
   <a href="https://github.com/Davisamasoa">
