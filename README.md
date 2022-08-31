@@ -6,8 +6,7 @@ Nacionality: Brazil; <br>
 Studying: Js & ReactJs ; <br>
 Skills: HTML, CSS and Js; <br>
 Objective: Be a softweer engineer; <br>
-Portfólio: ; <br>
-Linkedin ;
+Portfólio: https://davisamasoa.github.io/Portfolio/; <br>
 
 <div align="center">
   <a href="https://github.com/Davisamasoa">
