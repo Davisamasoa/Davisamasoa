@@ -4,7 +4,7 @@
 
 🇧🇷 Nacionality: Brazilian; <br>
 ⏳ Studying: Js & ReactJs; <br>
-💼 Skills: HTML, CSS and Js; <br>
+💼 Skills: HTML, CSS, Sass and Js; <br>
 🎯 Objective: Be a softweer engineer; <br>
 📂 Portfolio: https://davisamasoa.github.io/Portfolio/; <br>
 
