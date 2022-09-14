@@ -16,6 +16,7 @@
   <img align="center" alt="Davi-Js" height="30" style="margin-left: 40px;"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   
   ## ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/107278331/179294718-7bcc398b-843c-4d82-8c60-9cb1e0b47572.gif)
 
