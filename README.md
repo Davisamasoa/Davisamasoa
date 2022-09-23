@@ -1,30 +1,44 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davi Samuel
+===================================================================================================================================
 
+Full Stack Developer Jr
+-----------------------
 
-## Hi there! My name is Davi Samuel and there are some things about me below, enjoy it! 
+I decided to get into the programming world in last year and i was very intrigued, so i went deep into this journey!
 
-🇧🇷 Nacionality: Brazilian; <br>
-⏳ Studying: Js & ReactJs; <br>
-💼 Skills: Js, HTML, CSS, Sass and Bootstrap; <br>
-🎯 Objective: Be a softweer engineer; <br>
-📂 Portfolio: https://davisamasoa.github.io/Portfolio/; <br>
+* 🌍  I'm based in Belo Horizonte, Brasil
+* ✉️  You can contact me at [davisamasoa@gmail.com](mailto:davisamasoa@gmail.com)
+* 🧠  I'm learning JavaScript
+* 🤝  I'm open to collaborating on Interesting JS projects
 
-<div align="center">
-  <a href="https://github.com/Davisamasoa">
-  <img height="165em" width="420px" src="https://github-readme-stats.vercel.app/api?username=Davisamasoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisamasoa&layout=compact&langs_count=7&theme=dark"/>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Davi-Js" height="30" style="margin-left: 40px;"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-   <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  
-  ## ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/107278331/179294718-7bcc398b-843c-4d82-8c60-9cb1e0b47572.gif)
-
-<div> 
-  <a href = "mailto:davisamasoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davisamasoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ ## ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/107278331/179294718-7bcc398b-843c-4d82-8c60-9cb1e0b47572.gif)
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/davisamasoa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davisamasoa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/davisamasoa"><img src="https://github-readme-stats.vercel.app/api?username=davisamasoa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davisamasoa's GitHub stats" /></a>
+
+<a href="https://github.com/davisamasoa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisamasoa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/davisamasoa/pomodoro" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=davisamasoa&repo=pomodoro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/davisamasoa/CalculadoraJS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=davisamasoa&repo=CalculadoraJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<div width="100%" align="center"><a href="https://github.com/davisamasoa/musicPlayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=davisamasoa&repo=musicPlayer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
