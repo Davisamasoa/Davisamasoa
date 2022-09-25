@@ -7,6 +7,7 @@ Full Stack Developer Jr
 I decided to get into the programming world in last year and i was very intrigued, so i went deep into this journey!
 
 * 🌍  I'm based in Belo Horizonte, Brasil
+* 🖥️  See my portfolio at [My portfolio](http://https://davisamasoa.github.io/Portfolio/)
 * ✉️  You can contact me at [davisamasoa@gmail.com](mailto:davisamasoa@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Interesting JS projects
