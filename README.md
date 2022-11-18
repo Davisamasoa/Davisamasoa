@@ -7,7 +7,7 @@ Front-End Developer Jr
 I decided to get into the programming world in last year and i was very intrigued, so i went deep into this journey!
 
 * 🌍  I'm based in Belo Horizonte, Brazil;
-* 🖥️  See my portfolio at [My portfolio](davisamasoa.vercel.app);
+* 🖥️  See my portfolio at [My portfolio]([davisamasoa.vercel.app](https://davisamasoa.vercel.app/));
 * ✉️  You can contact me at [davisamasoa@gmail.com](mailto:davisamasoa@gmail.com);
 * 🧠  I'm learning ReactJs;
 * 🤝  I'm open to collaborating on Interesting JS projects;
