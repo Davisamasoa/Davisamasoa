@@ -12,7 +12,10 @@ I decided to get into the programming world in last year and i was very intrigue
 * 🧠  I'm learning NodeJs;
 * 🤝  I'm open to collaborating on Interesting JS projects;
 
- ## ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/107278331/179294718-7bcc398b-843c-4d82-8c60-9cb1e0b47572.gif)
+
+<img src="https://user-images.githubusercontent.com/107278331/219785623-60ec9c10-db3d-4377-9a60-5ccb2dadd979.gif" width="250" height="250"/>
+
+
  
 
 ### Skills
