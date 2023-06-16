@@ -9,7 +9,7 @@ I decided to get into the programming world in last year and i was very intrigue
 * 🌍  I'm based in Belo Horizonte, Brazil;
 * 🖥️  See my portfolio at [My portfolio](https://davisamasoa.vercel.app/);
 * ✉️  You can contact me at [davisamasoa@gmail.com](mailto:davisamasoa@gmail.com);
-* 🧠  I'm learning NodeJs;
+* 🧠  I'm learning Java;
 * 🤝  I'm open to collaborating on Interesting JS projects;
 
 
