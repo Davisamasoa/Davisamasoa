@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davi Samuel!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davi Machado!
 ===================================================================================================================================
 
 Full-Stack Developer Jr
@@ -7,7 +7,7 @@ Full-Stack Developer Jr
 I decided to get into the programming world in last year and i was very intrigued, so i went deep into this journey!
 
 * 🌍  I'm based in Belo Horizonte, Brazil;
-* 🖥️  See my portfolio at [My portfolio](https://davisamasoa.vercel.app/);
+* 🖥️  See my portfolio at [My portfolio](https://davimachado.xyz/);
 * ✉️  You can contact me at [davisamasoa@gmail.com](mailto:davisamasoa@gmail.com);
 * 🧠  I'm learning Java;
 * 🤝  I'm open to collaborating on Interesting JS projects;
