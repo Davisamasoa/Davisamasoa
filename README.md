@@ -13,7 +13,8 @@ I decided to get into the programming world in last year and i was very intrigue
 * 🤝  I'm open to collaborating on Interesting JS projects;
 
 
-<img src="https://user-images.githubusercontent.com/107278331/219785623-60ec9c10-db3d-4377-9a60-5ccb2dadd979.gif" width="250" height="250"/>
+
+<img src="https://i.imgur.com/7IH1xJy.jpg" width="250" height="250"/>
 
 
  
