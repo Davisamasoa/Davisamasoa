@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer Jr
 -----------------------
 
-I decided to get into the programming world in last year and i was very intrigued, so i went deep into this journey!
+Part of me is here, hope you enjoy it!
 
 * 🌍  I'm based in Belo Horizonte, Brazil;
 * 🖥️  See my portfolio at [My portfolio](https://davimachado.xyz/);
