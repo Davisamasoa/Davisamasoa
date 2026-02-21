@@ -7,7 +7,7 @@ Full-Stack Developer Jr
 Here you’ll find part of my journey in development, hope you enjoy it!
 
 * 🌍  I'm based in Ouro Preto - MG, Brazil;
-* 🖥️  See my portfolio at [My portfolio](https://davimachado.xyz/);
+* 🖥️  See my portfolio at [My portfolio](https://davisamasoa.vercel.app/);
 * ✉️  You can contact me at [davisamasoa@gmail.com](mailto:davisamasoa@gmail.com);
 * 🧠  I'm learning Java;
 * 🤝  I'm open to collaborating on Interesting JS projects;
