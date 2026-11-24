@@ -4,4 +4,4 @@ text{font-family:G,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,s
 .r{opacity:0;animation:rise .8s cubic-bezier(.22,1,.36,1) forwards}
 @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){.r{animation:none;opacity:1}}
-</style><text x="2" y="44" font-size="15" fill="#c9b48a" class="mono" letter-spacing="1.5">02 · SHIPPED</text><text x="0" y="96" font-size="40" font-weight="600" letter-spacing="-1.2" fill="#f1efea">Selected work</text></svg>
+</style><text x="2" y="44" font-size="15" fill="#c9b48a" class="mono" letter-spacing="1.5">01 · PROJECTS</text><text x="0" y="96" font-size="40" font-weight="600" letter-spacing="-1.2" fill="#f1efea">Selected work</text></svg>

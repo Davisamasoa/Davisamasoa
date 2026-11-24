@@ -8,26 +8,19 @@
 
 <br>
 
-<img src="./assets/h-now.svg" alt="Building now" width="100%">
+<img src="./assets/h-work.svg" alt="Selected work" width="100%">
 
 <p>
   <a href="https://niveling.vercel.app"><img src="./assets/p-niveling.svg" alt="Niveling" width="49%"></a>
   <a href="https://geb-estoque.pages.dev"><img src="./assets/p-geb.svg" alt="GEB" width="49%"></a>
 </p>
 <p>
-  <img src="./assets/p-papocheio.svg" alt="Papo Cheio" width="49%">
-</p>
-
-<br>
-
-<img src="./assets/h-work.svg" alt="Selected work" width="100%">
-
-<p>
   <a href="https://sabbatai.in"><img src="./assets/p-sabbatai.svg" alt="Sabbatai" width="49%"></a>
   <a href="https://www.federalfolia.com"><img src="./assets/p-federalfolia.svg" alt="Federal Folia" width="49%"></a>
 </p>
 <p>
   <a href="https://passus.in"><img src="./assets/p-passus.svg" alt="Agência Passus" width="49%"></a>
+  <img src="./assets/p-papocheio.svg" alt="Papo Cheio" width="49%">
 </p>
 
 <br>
