@@ -1,14 +1,14 @@
-<a href="https://davisamasoa.vercel.app/en"><img src="./assets/hero.svg" alt="Hi, I'm Davi. I build websites, web apps and products of my own." width="100%"></a>
+<a href="https://davisamasoa.vercel.app"><img src="./assets/hero.svg" alt="Oi, eu sou o Davi. Crio sites, aplicações web e produtos próprios." width="100%"></a>
 
 <p>
-  <a href="https://davisamasoa.vercel.app/en"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="48"></a>&nbsp;
+  <a href="https://davisamasoa.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfólio" height="48"></a>&nbsp;
   <a href="https://www.linkedin.com/in/davisamasoa/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>&nbsp;
-  <a href="mailto:davisamasoa@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="48"></a>
+  <a href="mailto:davisamasoa@gmail.com"><img src="./assets/btn-email.svg" alt="E-mail" height="48"></a>
 </p>
 
 <br>
 
-<img src="./assets/h-work.svg" alt="Selected work" width="100%">
+<img src="./assets/h-work.svg" alt="Trabalhos selecionados" width="100%">
 
 <p>
   <a href="https://niveling.vercel.app"><img src="./assets/p-niveling.svg" alt="Niveling" width="49%"></a>
@@ -25,6 +25,6 @@
 
 <br>
 
-<img src="./assets/h-stack.svg" alt="What I build with" width="100%">
+<img src="./assets/h-stack.svg" alt="Com o que eu trabalho" width="100%">
 
-<img src="./assets/stack.svg" alt="TypeScript, React, Next.js, Astro, Tailwind CSS, Node.js, Supabase, React Native, Expo and more" width="100%">
+<img src="./assets/stack.svg" alt="TypeScript, React, Next.js, Astro, Tailwind CSS, Node.js, Supabase, React Native, Expo e mais" width="100%">
