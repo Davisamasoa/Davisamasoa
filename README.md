@@ -20,7 +20,7 @@
 </p>
 <p>
   <a href="https://passus.in"><img src="./assets/p-passus.svg?v=pt" alt="Agência Passus" width="49%"></a>
-  <img src="./assets/p-papocheio.svg?v=pt2" alt="Papo Cheio" width="49%">
+  <a href="https://papo-cheio.vercel.app"><img src="./assets/p-papocheio.svg?v=pt3" alt="Papo Cheio" width="49%"></a>
 </p>
 
 <br>
