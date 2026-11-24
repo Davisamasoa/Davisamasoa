@@ -11,15 +11,15 @@
 <img src="./assets/h-work.svg?v=pt" alt="Trabalhos selecionados" width="100%">
 
 <p>
-  <a href="https://geb-estoque.pages.dev"><img src="./assets/p-geb.svg?v=pt" alt="GEB" width="49%"></a>
   <a href="https://www.federalfolia.com"><img src="./assets/p-federalfolia.svg?v=pt" alt="Federal Folia" width="49%"></a>
-</p>
-<p>
   <a href="https://sabbatai.in"><img src="./assets/p-sabbatai.svg?v=pt" alt="Sabbatai" width="49%"></a>
-  <a href="https://niveling.vercel.app"><img src="./assets/p-niveling.svg?v=pt" alt="Niveling" width="49%"></a>
 </p>
 <p>
+  <a href="https://geb-estoque.pages.dev"><img src="./assets/p-geb.svg?v=pt" alt="GEB" width="49%"></a>
   <a href="https://passus.in"><img src="./assets/p-passus.svg?v=pt" alt="Agência Passus" width="49%"></a>
+</p>
+<p>
+  <a href="https://niveling.vercel.app"><img src="./assets/p-niveling.svg?v=pt" alt="Niveling" width="49%"></a>
   <a href="https://papo-cheio.vercel.app"><img src="./assets/p-papocheio.svg?v=pt3" alt="Papo Cheio" width="49%"></a>
 </p>
 
