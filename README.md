@@ -1,9 +1,9 @@
-<a href="https://davisamasoa.vercel.app/en"><img src="./assets/hero.svg" alt="Davi Machado. Websites and web applications for brands that demand sophistication." width="100%"></a>
+<a href="https://davisamasoa.vercel.app/en"><img src="./assets/hero.svg" alt="Hi, I'm Davi. I build websites, web apps and products of my own." width="100%"></a>
 
 <p>
-  <a href="mailto:davisamasoa@gmail.com"><img src="./assets/btn-start.svg" alt="Start a project" height="48"></a>&nbsp;
   <a href="https://davisamasoa.vercel.app/en"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="48"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/davisamasoa/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>
+  <a href="https://www.linkedin.com/in/davisamasoa/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>&nbsp;
+  <a href="mailto:davisamasoa@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="48"></a>
 </p>
 
 <br>
@@ -28,7 +28,3 @@
 <img src="./assets/h-stack.svg" alt="What I build with" width="100%">
 
 <img src="./assets/stack.svg" alt="TypeScript, React, Next.js, Astro, Tailwind CSS, Node.js, Supabase, React Native, Expo and more" width="100%">
-
-<br><br>
-
-<a href="mailto:davisamasoa@gmail.com"><img src="./assets/footer.svg" alt="Have a project in mind? davisamasoa@gmail.com" width="100%"></a>
