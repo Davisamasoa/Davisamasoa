@@ -19,7 +19,7 @@
   <a href="https://passus.in"><img src="./assets/p-passus.svg?v=pt" alt="Agência Passus" width="49%"></a>
 </p>
 <p>
-  <a href="https://niveling.vercel.app"><img src="./assets/p-niveling.svg?v=pt" alt="Niveling" width="49%"></a>
+  <a href="https://niveling.vercel.app"><img src="./assets/p-niveling.svg?v=pt2" alt="Niveling" width="49%"></a>
   <a href="https://papo-cheio.vercel.app"><img src="./assets/p-papocheio.svg?v=pt3" alt="Papo Cheio" width="49%"></a>
 </p>
 
